@@ -1,0 +1,30 @@
+.homepage {
+  display: flex;
+}
+
+.product-details,
+.dashboard {
+  margin: 10px;
+  padding: 10px;
+}
+
+.product-details {
+  width: 200px;
+  background-color: white;
+}
+
+.dashboard {
+  width: 100%;
+}
+
+.tags {
+  display: flex;
+}
+
+.tag {
+  margin: 2px;
+  padding: 1px;
+  border: 1px solid rgb(231, 231, 231);
+  border-radius: 5px;
+  font-size: 8px;
+}
